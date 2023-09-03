@@ -33,7 +33,6 @@ Use the `modify-config.bat` script to create and edit a configuration file accor
 
 ### Personalizing Your Config
 **Model Name** serves as the identifier for monitoring on the specified model.
-![image](https://github.com/grvyscale/RealtimeOvertrainingDetection/assets/142821265/9ac73030-6fb1-4467-b240-41ff3ca08a6f)
 
 
 **Iterations** Iterations determine the number of epochs that should be after reaching lowest point on the graph. 
