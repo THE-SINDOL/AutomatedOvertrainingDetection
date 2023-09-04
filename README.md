@@ -4,7 +4,7 @@ Simple program that will automate searching the most optimal
 epoch for your RVC model
 
 
-## Download Rod
+## Installing ROD
 1. Ensure you have [**Python**](https://www.python.org/downloads/) installed. 
 2. Go to the [Releases](https://github.com/grvyscale/RealtimeOvertrainingDetection/releases) tab.
 3. Download the latest version of ROD (rod.zip).
@@ -16,7 +16,7 @@ Unzip the downloaded rod.zip file to a location of your choice.
 
 ### Local Training:
 - If you plan to train locally, create a directory named `ROD` in your "Mangio-RVC".
-- Drop the unpacked files inside the 'ROD' directory.
+- Drop the unpacked files inside the created `ROD` directory.
 
 
 ### Colab Training:
