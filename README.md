@@ -15,7 +15,7 @@ Unzip the downloaded rod.zip file to a location of your choice.
 
 
 ### Local Training:
-- If you plan to train locally, create a directory in your "Mangio-RVC".
+- If you plan to train locally, create a directory named `ROD` in your "Mangio-RVC".
 - Drop the unpacked ROD files inside the created directory.
 
 
