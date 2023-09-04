@@ -28,7 +28,7 @@ Run the `install-requirements.bat` script to install the necessary dependencies.
 
 
 ## Creating Configuration File
-Use the `modify-config.bat` script to create and edit a configuration file according to your needs.
+Use the `config-editor.bat` script to create and edit a configuration file according to your needs.
 
 
 ### Personalizing Your Config
