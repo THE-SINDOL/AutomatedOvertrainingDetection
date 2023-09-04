@@ -38,6 +38,7 @@ Use the `modify-config.bat` script to create and edit a configuration file accor
 **Iterations** Iterations determine the number of epochs that should be after reaching lowest point on the graph. 
 For instance, if you select 100 iterations and there are only 20 epochs after lowest point, 
 it will refresh after specified number of seconds.
+IF YOU ALREADY HAVE TRAINED MODEL SET ITERATIONS TO 1
 
 
 **Refresh Rate** The refresh rate indicates how frequently the program will update itself in seconds,
