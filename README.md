@@ -1,4 +1,4 @@
-# Realtime Overtraining Detection (ROD) GUIDE
+# Realtime Overtraining Detection (ROD)
 
 Simple program that will automate searching the most optimal
 epoch for your RVC model
