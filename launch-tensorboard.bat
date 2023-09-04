@@ -1,5 +1,5 @@
 @echo off
-title RAOD - Tensorboard
+title ROD - Tensorboard
 setlocal enabledelayedexpansion
 
 :: Define the path to the config.json file
