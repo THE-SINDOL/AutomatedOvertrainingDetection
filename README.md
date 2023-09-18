@@ -1,22 +1,22 @@
-# Realtime Overtraining Detection (ROD)
+# Automated Overtraining Detection (AOD)
 
 Simple program that will automate searching the most optimal
 epoch for your RVC model
 
 
-## Installing ROD
+## Installing AOD
 1. Ensure you have [**Python**](https://www.python.org/downloads/) installed. 
 2. Go to the [Releases](https://github.com/grvyscale/RealtimeOvertrainingDetection/releases) tab.
-3. Download the latest version of ROD (rod.zip).
+3. Download the latest version of AOD (aod.zip).
 
 
 ## Unpack the Files
-Unzip the downloaded rod.zip file to a location of your choice.
+Unzip the downloaded aod.zip file to a location of your choice.
 
 
 ### Local Training:
-- If you plan to train locally, create a directory named `ROD` in your "Mangio-RVC".
-- Drop the unpacked files inside the created `ROD` directory.
+- If you plan to train locally, create a directory named `AOD` in your "Mangio-RVC".
+- Drop the unpacked files inside the created `AOD` directory.
 
 
 ### Colab Training:
@@ -59,5 +59,5 @@ Additionally, ensure that permissions are configured to allow anyone with the li
 Start Tensorboard by running the `launch-tensorboard.bat` script.
 
 
-## Run rod.bat
-execute the `rod.bat` script, and get the outcome of sufficient epochs number.
+## Run aod.bat
+execute the `aod.bat` script, and get the outcome of sufficient epochs number.
