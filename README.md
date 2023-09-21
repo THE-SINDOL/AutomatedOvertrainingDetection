@@ -1,5 +1,9 @@
 # Automated Overtraining Detection (AOD)
 
+working on stable realease of aod
+
+currently latest version is rod 1.0.1 beta
+
 Simple program that will automate searching the most optimal
 epoch for your RVC model
 
